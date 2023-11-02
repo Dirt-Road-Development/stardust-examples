@@ -1,0 +1,21 @@
+{
+  "name": "stardust-js-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stardust-gg/stardust-custodial-sdk": "^1.0.8",
+    "ethers": "^5.7.2",
+    "express": "^5.0.0-beta.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.20",
+    "dotenv": "^16.3.1"
+  }
+}
