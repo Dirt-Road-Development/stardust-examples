@@ -6,7 +6,7 @@ The default chain used is SKALE Chaos Testnet
 Available Examples
 ---
 
-- JavaScript using Ethers v5 (Coming Soon)
+- JavaScript using Ethers v5
 - Typescript using Ethers v5 (Coming Soon)
 - C# using Nethereum (Coming Soon)
 
